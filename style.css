@@ -3,5 +3,16 @@ html, body {
   padding: 0;
 }
 canvas {
+  canvas { 
+  position: relative;
+  top: 500px;
+  margin: auto;
+  padding: 0px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+  display: block;
+}
+
   display: block;
 }
